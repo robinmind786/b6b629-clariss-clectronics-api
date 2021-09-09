@@ -578,23 +578,23 @@
          "productimg":[
             {
                "id":"attcvDDMikF6G2iNi",
-               "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/21.jpg?raw=true",
+               "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/12.jpg?raw=true",
                "filename":"product-12.jpg",
                "size":62864,
                "type":"image/jpg",
                "thumbnails":{
                   "small":{
-                     "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/21.jpg?raw=true",
+                     "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/12.jpg?raw=true",
                      "width":56,
                      "height":36
                   },
                   "large":{
-                     "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/21.jpg?raw=true",
+                     "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/12.jpg?raw=true",
                      "width":801,
                      "height":512
                   },
                   "full":{
-                     "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/21.jpg?raw=true",
+                     "url":"https://github.com/robinmind786/b6b629-clariss-clectronics-api/blob/main/images/12.jpg?raw=true",
                      "width":3000,
                      "height":3000
                   }
